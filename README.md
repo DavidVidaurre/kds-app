@@ -58,3 +58,6 @@ Esta es una aplicación web de Kitchen Display System (KDS) desarrollada como pa
 - [Documentación oficial de Styled Components](https://styled-components.com/)
 - [Documentación oficial de Redux](https://redux.js.org/)
 - [Documentación oficial de TypeScript](https://www.typescriptlang.org/)
+
+## Despliegue
+https://kds-app-idbi.vercel.app/
