@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --status-pending: #F7AE00;
+  --status-completed: #1FA500;
+  --status-cancelled: #F44336;
+}
